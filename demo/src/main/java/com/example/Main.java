@@ -33,6 +33,7 @@ public class Main extends Application {
 
     public static void main(String[] args) {
         launch();
+        System.out.println("blahsda");
         System.out.println("Hello From Braden");
 
     }
